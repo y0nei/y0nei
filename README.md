@@ -19,4 +19,10 @@
   <br>
   <br>
   <a href="https://nogithub.codeberg.page"><img src="https://nogithub.codeberg.page/badge.svg" alt="Please don't upload to GitHub"></a>
+  <div>
+    <img src="./agplv3.png"></img>
+    <img src="./void.gif"></img>
+    <img src="./internet_privacy.gif"></img>
+    <img src="./made-on.gif"></img>
+  </div>
 </p>
