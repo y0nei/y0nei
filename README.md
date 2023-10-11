@@ -24,5 +24,8 @@
     <img src="./void.gif"></img>
     <img src="./internet_privacy.gif"></img>
     <img src="./made-on.gif"></img>
+    <img src="./right2repair.png"></img>
+    <img src="./linuxnow.gif"></img>
+    <img src="./invalidator.gif"></img>
   </div>
 </p>
